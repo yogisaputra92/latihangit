@@ -1,3 +1,11 @@
 * {
     font-family:sans-serif;
 }
+
+li:hover {
+    color: aqua;
+}
+
+h2, h3 {
+    color: aquamarine;
+}
