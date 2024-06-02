@@ -2,8 +2,17 @@
     font-family:sans-serif;
 }
 
-li:hover {
-    color: aqua;
+nav a {
+    color: cadetblue;
+    text-decoration: none;
+}
+
+nav a:hover {
+    font-weight: bold;
+}
+
+nav li {
+    list-style-type: none;
 }
 
 h2, h3 {
