@@ -1,5 +1,15 @@
 * {
-    font-family:sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h2, h3 {
+    color: #F87060;
 }
 
 nav a {
@@ -15,6 +25,6 @@ nav li {
     list-style-type: none;
 }
 
-h2, h3 {
-    color: aquamarine;
+nav {
+    background-color: #102542;
 }
